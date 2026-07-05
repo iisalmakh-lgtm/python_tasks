@@ -1,0 +1,229 @@
+# What is computer hardware?
+- Computer hardware is the physical components that make up a computer system and enable it to perform essential functions, such as input, output, processing and storage.
+- central processing unit (CPU), random access memory (RAM), storage drives (for example, hard disk drives, solid-state drives) and the system board that connects them.
+- Users interact with computers through input devices such as keyboards, mice, touchscreens and scanners. Output devices, such as monitors, printers and speakers, deliver information to the user.
+ Networking hardware, including routers, switches and network interface cards (NICs), enables system communication.
+
+ # What is computer software?
+- In contrast to hardware, software consists of programs and instructions that tell the hardware what tasks to perform .
+- While hardware is tangible and performs the physical work of computing, software is intangible and provides the logic and commands that bring hardware to life.
+
+# Input Devices: Keyboard, Mouse, Scanner, Microphone, Webcam.
+# Output Devices: Monitor, Printer, Speakers, Projector.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# A central processing unit (CPU) is the primary functional component of a computer.
+- The CPU is an assemblage of electronic circuitry that run a computer’s operating system and apps and manage a variety of other computer operations
+the active brain of the computer ,The CPU is the invisible manager inside the computer where data input is transformed into information output.
+It stores and executes program instructions through its vast networks of circuitry.
+Like the human brain, the CPU can multitask .
+
+
+- Even though the term “CPU” sounds like we’re talking about a singular piece of equipment, that’s not the case. 
+The CPU is actually an assembled lot of different computer components that work together in a highly orchestrated way :
+1) Control unit
+The control unit of the CPU houses circuitry that guides the computer system through a system of electrical pulses and notifies it to execute high-level computer instructions. 
+But despite its name, the control unit itself doesn’t control individual apps or programs; instead, it assigns those tasks as a human manager assigns particular jobs to different workers.
+
+
+2) Arithmetic/logic unit
+The arithmetic/logic unit (ALU) handles all arithmetic operations and logical operations. 
+Its math functionality is based on four types of operations (addition, subtraction, multiplication and division). 
+Logical operations typically involve some type of comparison (such as of letters, numbers or special characters) that’s tied to a particular computer action.
+
+3) Memory unit
+The memory unit handles several key functions related to memory usage, from managing the data flow that occurs between RAM and the CPU to overseeing the important work of the cache memory.
+Memory units contain all types of data and instructions needed for data processing and offer memory-protection safeguards.
+
+# The following CPU components are also essential:
+
+- Cache: Memory speed is a critical aspect of how CPUs run, and yet, ironically, the CPU does not actually access RAM. 
+Instead, modern CPUs have one or multiple layers of cache that routinely handle such tasks (at speeds faster than RAM can achieve) due to the cache’s advantageous position on the CPU’s processor chip.
+
+- Registers: For immediate and constant data needs that must be satisfied quickly to ensure smooth operation (so the CPU can efficiently carry out its various data-processing instructions), the CPU uses registers, which are a form of permanent memory. 
+By building registers into the CPU itself, those registers’ data can be accessed the millisecond it’s needed.
+
+- Clock: It’s essential that the complicated circuitry within a CPU works together in a highly synchronized manner. 
+The CPU’s clock manages this process by issuing electrical pulses at regular intervals, which coordinate with various computer components. 
+The rate at which those pulses are delivered is referred to as clock speed, measured in Hertz (Hz) or megahertz (MHz).
+
+- Instruction register and pointer: When an instruction set is being carried out by the CPU, the instruction pointer shows the location of the next instruction to be executed by the CPU. 
+Once the current instruction has been accomplished, the next information pops into the instruction register and a new instruction will be spotlighted within the instruction pointer.
+
+- Buses: A computer bus has a very singular role within most computers, ensuring proper data transfer and data flow between the computing components inside a computer system. 
+The width of a bus describes the number of how many bits the bus transfers in parallel. Buses provide a way for computers to link CPUs to on-board memory and serve other purposes.
+
+# How does a CPU function?
+- CPU functionality is handled by the control unit, with synchronization assistance provided by the computer clock. 
+- CPU work occurs according to an established cycle, known as the CPU instruction cycle, that calls for a certain number of repetitions of the following basic computing instructions, as permitted by that computer’s processing power:
+
+Fetch: Fetches occur anytime data is retrieved from memory.
+
+Decode: The decoder within the CPU translates binary instructions into electrical signals that engage other parts of the CPU.
+
+Execute: Execution occurs when computers interpret and carry out a computer program’s set of instructions.
+It should be mentioned that with some basic tinkering, the computer clock within a CPU can be manipulated to keep time faster than it normally elapses. 
+Some users do this to run their computer at higher speeds. 
+However, this practice is not advisable since it can cause computer parts to wear out earlier than normal and can violate CPU manufacturer warranties.
+
+
+# Types of central processing units
+CPUs are defined by the processor or microprocessor driving them:
+
+- Single-core processor: A single-core processor is a microprocessor with one CPU on its die (the silicon-based material to which chips and microchips are attached).
+Single-core processors typically run slower than multi-core processors, operate on a single thread and perform the instruction cycle sequence only once at a time. 
+They are best suited to general-purpose computing.
+
+- Multi-core processor: A multi-core processor is split into two or more sections of activity, with each core carrying out instructions as if they were completely distinct computers, although the sections are technically located together on a single chip.
+For many computer programs, a multi-core processor provides superior, high-performance output.
+
+- Embedded processor: An embedded processor is a microprocessor expressly engineered for use in embedded systems. 
+Embedded systems are small and designed to consume less power and be contained within the processor for immediate access to data. 
+Embedded processors include microprocessors and microcontrollers.
+
+- Dual-core processor: A dual-core processor is a multi-core processor containing two microprocessors that act independently from each other.
+- Quad-core processor: A quad-core processor is a multi-core processor that has four microprocessors functioning independently.
+- Octa-core: An octa-core processor is a multi-core processor that has eight microprocessors functioning independently.
+- Deca-core processor: A deca-core processor is an integrated circuit that has 10 cores on one die or per package.
+
+# processors
+Power laptops, desktops, workstations, and servers with Intel processors built on decades of innovation. Get the performance you need for business, gaming, AI, creation, and more.
+
+- Intel® Core™ Ultra processors
+Processors for premium laptops balancing speed, battery life, and built-in AI acceleration.1
+
+- Intel® Core™ processors
+High-speed processors for desktops and laptops across mainstream computing needs.
+
+- Intel® Xeon® processors
+Processors built for general enterprise servers and workstations.
+
+- Intel® Xeon® CPU Max processors
+Advanced Xeon processors with high-bandwidth memory for AI and supercomputing.
+
+- Intel® Arc™ G-Series processors
+Processors for handheld gaming, delivering smooth, responsive play with performance that lasts wherever you play.
+
+- Intel Atom® processors
+Low-power chips for edge devices, automation, and compact smart systems.
+
+- Intel® processors
+Intel’s entry level processors for performance and affordability you need in order to connect, learn, and play anywhere.
+
+# AMD Processors
+1. Data Center
+AMD EPYC 4004 Series
+AMD EPYC 8004 Series
+AMD EPYC 9004 Series
+AMD EPYC 9005 Series
+2. Business Systems
+AMD Ryzen PRO 3
+AMD Ryzen PRO 5
+AMD Ryzen PRO 7
+AMD Ryzen PRO 9
+AMD Ryzen AI PRO
+3. Personal & Gaming
+AMD Ryzen 3
+AMD Ryzen 5
+AMD Ryzen 7
+AMD Ryzen 9
+AMD Ryzen X3D Series (للألعاب)
+4. Embedded
+AMD Ryzen Embedded
+AMD EPYC Embedded
+AMD Versal
+AMD Kria SOM
+5. Workstations
+AMD Ryzen Threadripper
+AMD Ryzen Threadripper PRO
+6. Desktops
+Ryzen 3
+Ryzen 5
+Ryzen 7
+Ryzen 9
+7. Laptops
+Ryzen 3 Mobile
+Ryzen 5 Mobile
+Ryzen 7 Mobile
+Ryzen 9 Mobile
+Ryzen AI Series
+Ryzen AI Max Series
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Random Access Memory (RAM)
+- RAM, or Read-Write Memory, is the computer’s main memory that temporarily stores data and enables fast read and write operations. Located on the motherboard, it directly supports the CPU, allowing programs to run smoothly and information to be processed quickly.
+As volatile memory, data in RAM is lost when the computer is powered off.
+Its high speed greatly influences overall system performance, and insufficient RAM can slow program loading and reduce efficiency.
+ 
+- Working of RAM
+RAM (Random Access Memory) is made of tiny transistors and capacitors that store electrical charges representing data bits. It acts as the computer’s short-term memory, temporarily holding data the CPU needs to access quickly.
+
+Temporary Storage: RAM holds active files and programs for fast access.
+Volatile: Data is lost when the power is turned off, so saving to permanent storage (hard drive or SSD) is essential.
+High Speed: RAM is much faster than other storage, allowing the CPU to process data efficiently.
+
+# Types of RAM?
+Mainly RAM have 2types
+
+- SRAM (Static RAM) :The SRAM memories consist of circuits capable of retaining the stored information as long as the power is applied. 
+That means this type of memory requires constant power. SRAM memories are used to build Cache Memory.
+- DRAM (Dynamic RAM) :DRAM stores the binary information in the form of electric charges applied to capacitors. 
+The stored information on the capacitors tends to lose over a period of time and thus the capacitors must be periodically recharged to retain their usage. 
+DRAM requires refresh time. The main memory is generally made up of DRAM chips
+
+# Types of RAM (DDR Generations)
+
+- DDR3 (Double Data Rate 3)
+
+An older generation of RAM that offers moderate speed and low power consumption.
+Commonly found in older desktop and laptop computers.
+
+- DDR4 (Double Data Rate 4)
+
+Faster and more efficient than DDR3.
+Provides higher performance and is widely used in modern computers.
+
+- DDR5 (Double Data Rate 5)
+
+The latest generation of RAM.
+Offers higher speed, greater bandwidth, and improved power efficiency, making it ideal for gaming, content creation, and AI applications.
+Each new DDR generation provides higher performance, faster data transfer speeds, and better power efficiency than the previous generation.
+
+
+# Hard Disk Drive (HDD) Secondary Memory
+- A hard disk drive (HDD) is a fixed storage device inside a computer that uses magnetic technology to retrieve and store digital data for long-term. 
+Unlike RAM, HDDs retain data even when powered off, making them essential for operating systems, applications and files.
+
+
+| RAM                             | HDD                               |
+| ------------------------------- | --------------------------------- |
+| Temporary Storage               | Permanent Storage                 |
+| Very Fast                       | Slower                            |
+| Data is lost when power is off  | Data remains after shutdown       |
+| Used while programs are running | Stores files and operating system |
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Workstations
+# What is a graphics processing unit (GPU)?
+- A graphics processing unit (graphical processing unit, GPU) is an electronic circuit designed to speed computer graphics and image processing on various devices. 
+These devices include video cards, system boards, mobile phones and personal computers (PCs).
+
+How does a GPU work?
+A GPU has its own random access memory (RAM), an electronic memory used to store code and data that the chip can access and alter as needed. 
+Advanced GPUs typically have RAM that has been built to hold the large data volumes required for compute-intensive tasks such as graphics editing, gaming or AI/ML use cases.
+
+Two popular kinds of GPU memory are Graphics Double Data Rate 6 Synchronous Dynamic Random-Access Memory (GDDR6) and GDDR6X, a later generation. 
+GDDR6X uses 15% less power per transferred bit than GDDR6, but its overall power consumption is higher because it is faster. 
+iGPUs can be either integrated into a computer's CPU or inserted into a slot alongside it and connected by a PCI express port.
+
+# Advantages
+
+High graphics performance.
+Accelerates AI and machine learning tasks.
+Improves gaming experience.
+Faster video rendering.
+
+# Disadvantages
+
+Expensive.
+High power consumption.
+Produces more heat.
+Not necessary for basic computer tasks.
