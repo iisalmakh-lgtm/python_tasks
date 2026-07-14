@@ -1,0 +1,128 @@
+========== Welcome To Python Bank ==========
+1. Register
+2. Login
+3. Exit
+Enter Your Choise As A Number :1
+Enter username : salma
+Enter Your Password Of 6 characters :22salma
+Registration successful! You can now log in.
+========== Welcome To Python Bank ==========
+1. Register
+2. Login
+3. Exit
+Enter Your Choise As A Number :1
+Enter username : sara
+Enter Your Password Of 6 characters :22sara
+Registration successful! You can now log in.
+========== Welcome To Python Bank ==========
+1. Register
+2. Login
+3. Exit
+Enter Your Choise As A Number :1
+Enter username : amr
+Enter Your Password Of 6 characters :22amr
+Password must be at least 6 characters long.
+========== Welcome To Python Bank ==========
+1. Register
+2. Login
+3. Exit
+Enter Your Choise As A Number :2
+Enter username : salma
+Enter Your Password : 22salma
+Welcome salma
+Current Balance: 0 EGP
+========== Bank Menu ==========
+1. Check Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Change Password
+6. Logout
+Enter Your Choise As A Number :2
+ Enter Amount : 1000
+Your Balance Become 1000.0 EGP
+========== Bank Menu ==========
+1. Check Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Change Password
+6. Logout
+Enter Your Choise As A Number :2
+ Enter Amount : 1000 
+Your Balance Become 2000.0 EGP
+========== Bank Menu ==========
+1. Check Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Change Password
+6. Logout
+Enter Your Choise As A Number :1
+Current Balance: 2000.0 EGP
+========== Bank Menu ==========
+1. Check Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Change Password
+6. Logout
+Enter Your Choise As A Number :4
+ Enter The recipient's Username : sara
+ Enter Amount : 500
+Transfer completed successfully!
+User New Balance = 1500.0 EGP
+recipient User New Balance = 500.0 EGP
+========== Bank Menu ==========
+1. Check Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Change Password
+6. Logout
+Enter Your Choise As A Number :1
+Current Balance: 1500.0 EGP
+========== Bank Menu ==========
+1. Check Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Change Password
+6. Logout
+Enter Your Choise As A Number :4
+ Enter The recipient's Username : amr
+ Enter Amount : 500
+  The other user must exist. 
+========== Bank Menu ==========
+1. Check Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Change Password
+6. Logout
+Enter Your Choise As A Number :1
+Current Balance: 1500.0 EGP
+========== Bank Menu ==========
+1. Check Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Change Password
+6. Logout
+Enter Your Choise As A Number :5
+ Enter Your Password : 22salma
+ Enter Your New Password : 33salma
+ Password changed successfully! 
+========== Bank Menu ==========
+1. Check Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Change Password
+6. Logout
+Enter Your Choise As A Number :6
+========== Welcome To Python Bank ==========
+1. Register
+2. Login
+3. Exit
+Enter Your Choise As A Number :3
