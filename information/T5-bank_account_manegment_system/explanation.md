@@ -11,7 +11,6 @@ The program allows users to:
 - Transfer money to another registered user.
 - Change their account password.
 - Log out and return to the main menu.
-
 The project uses:
 - Functions to organize the code.
 - Dictionaries to store user information (username, password, and balance).
